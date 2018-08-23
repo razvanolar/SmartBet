@@ -3,5 +3,7 @@
 smartbet.iml
 /.idea
 /fetch/.idea
+/fetch/utils/__pychace__/
 /data
 /target
+smartbet.sql

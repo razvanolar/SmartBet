@@ -21,26 +21,23 @@ public class Repository {
     this.writer = new DataWriter(loader);
   }
 
-  public void saveGames(List<Game> games) throws Exception {
+  public void saveGames(Country country, League league, List<Game> games) throws Exception {
     if (games == null || games.isEmpty()) {
       return;
     }
     Connection connection = null;
     try {
       connection = JDBCUtil.getInstance().getNewConnection();
-//      connection.setAutoCommit(false);
+      SmartOutUtil.SaveProgress saveProgress = SmartOutUtil.getSaveProgressObject(country, league, games.size());
+      saveProgress.begin();
       for (Game game : games) {
-        SmartOutUtil.printLine("Saving game:");
-        SmartOutUtil.printLine(game.toString());
-        SmartOutUtil.printLine("-------");
         saveGame(game, connection);
+        saveProgress.gameSaved();
       }
-//      connection.rollback();
+      SmartOutUtil.printLine();
     } catch (SQLException e) {
       throw e;
     } finally {
-//      if (connection != null)
-//        connection.rollback();
       JDBCUtil.getInstance().closeConnection(connection);
     }
   }
@@ -68,7 +65,9 @@ public class Repository {
     game.setHomeTeam(homeTeam);
     game.setAwayTeam(awayTeam);
 
-    writer.saveGame(game, connection);
+    if (!loader.checkIfGameExists(game, connection)) {
+      writer.saveGame(game, connection);
+    }
   }
 
   public void runTests() throws Exception {

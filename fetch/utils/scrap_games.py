@@ -75,6 +75,12 @@ def parse(content):
 
         home_team = tds[2].find("a").string
         away_team = tds[4].find("a").string
+        if home_team.endswith(";"):
+            home_team = home_team[:-1]
+        if away_team.endswith(";"):
+            away_team = away_team[:-1]
+        home_team = home_team.replace("&", "&amp;")
+        away_team = away_team.replace("&", "&amp;")
 
         home_team_goals, away_team_goals, home_team_half_goals, away_team_half_goals = parse_goals(score)
         game = Game(date, home_team, away_team, home_team_goals, away_team_goals, home_team_half_goals,

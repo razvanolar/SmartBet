@@ -1,9 +1,11 @@
 package repository;
 
 import model.Country;
+import model.Game;
 import model.League;
 import model.Team;
 import repository.loaders.CountryLoader;
+import repository.loaders.GameLoader;
 import repository.loaders.LeagueLoader;
 import repository.loaders.TeamLoader;
 
@@ -110,5 +112,10 @@ public class DataLoader {
     } finally {
       JDBCUtil.getInstance().closeConnection(connection);
     }
+  }
+
+  public boolean checkIfGameExists(Game game, Connection connection) throws SQLException {
+    GameLoader gameLoader = new GameLoader(connection);
+    return gameLoader.checkIfGameExists(game);
   }
 }

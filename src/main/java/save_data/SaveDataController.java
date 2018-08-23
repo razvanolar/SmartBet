@@ -34,9 +34,8 @@ public class SaveDataController {
 
     XmlParser parser = new XmlParser();
 
-    int maxLen = getMaxCountryLength(countries);
     for (File c : countries) {
-      SmartOutUtil.printLine(c.getName());
+//      SmartOutUtil.printLine(c.getName());
       File[] leagues = c.listFiles();
       if (leagues == null || leagues.length == 0) {
         continue;
@@ -45,10 +44,10 @@ public class SaveDataController {
       for (File l : leagues) {
         League league = new League(0, l.getName(), country);
         List<Game> games = parser.parse(l, country, league);
-        System.out.println(games);
-        repo.saveGames(games);
+//        System.out.println(games);
+        repo.saveGames(country, league, games);
       }
-      break;
+//      break;
     }
   }
 
@@ -69,15 +68,5 @@ public class SaveDataController {
       }
     }
     return result;
-  }
-
-  private int getMaxCountryLength(List<File> countries) {
-    int max = Integer.MIN_VALUE;
-    for (File c : countries) {
-      if (max < c.getName().length()) {
-        max = c.getName().length();
-      }
-    }
-    return max;
   }
 }

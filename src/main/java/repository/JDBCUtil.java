@@ -5,7 +5,7 @@ import java.util.Collection;
 
 public class JDBCUtil {
 
-  private String host = "jdbc:mysql://localhost:3306/smartbet?zeroDateTimeBehavior=CONVERT_TO_NULL&characterEncoding=utf8&useUnicode=true&sessionVariables=storage_engine%3DInnoDB&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC";
+  private String host = "jdbc:mysql://localhost:3306/smartbet?zeroDateTimeBehavior=CONVERT_TO_NULL&characterEncoding=utf8&useUnicode=true&useLegacyDatetimeCode=false&serverTimezone=UTC&autoReconnect=true&useSSL=false";
 
   private String user = "root";
   private String password = "root";

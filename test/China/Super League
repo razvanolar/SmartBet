@@ -1,0 +1,1361 @@
+<games>
+	<game>
+		<date>02/03/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>4</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>02/03/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>02/03/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>5</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>03/03/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>03/03/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>8</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>03/03/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>04/03/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>04/03/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>09/03/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>10/03/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>10/03/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>10/03/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>10/03/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>11/03/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>11/03/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>11/03/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>16/03/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>17/03/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>17/03/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/03/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>5</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>3</half_away_score>
+	</game>
+	<game>
+		<date>18/03/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/03/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/03/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/03/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>30/03/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>30/03/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>31/03/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>31/03/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>31/03/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>31/03/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>01/04/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>01/04/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>06/04/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>06/04/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>07/04/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>07/04/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>08/04/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>08/04/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>08/04/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>08/04/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>13/04/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>13/04/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>13/04/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>14/04/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>14/04/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>14/04/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>15/04/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>15/04/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>20/04/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>21/04/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>21/04/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>4</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>21/04/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>5</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>3</half_away_score>
+	</game>
+	<game>
+		<date>22/04/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>22/04/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>22/04/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>22/04/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>28/04/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>28/04/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>28/04/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>29/04/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>29/04/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>29/04/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>29/04/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>29/04/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>05/05/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/05/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/05/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>05/05/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/05/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>06/05/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>06/05/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>06/05/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>11/05/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>12/05/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>12/05/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>12/05/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>12/05/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>12/05/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>13/05/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>13/05/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/05/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>19/05/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>19/05/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>19/05/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>20/05/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>20/05/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>20/05/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>20/05/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>17/07/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>17/07/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>17/07/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>17/07/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/07/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/07/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/07/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/07/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>21/07/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>21/07/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>21/07/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>22/07/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>22/07/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>22/07/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>22/07/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>5</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>28/07/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>29/07/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>29/07/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Beijing Renhe FC</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>4</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>01/08/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>02/08/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>02/08/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>6</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>04/08/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>04/08/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>04/08/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/08/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/08/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/08/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>05/08/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>4</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>05/08/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>10/08/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>10/08/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>10/08/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>11/08/2018</date>
+		<home_team>Changchun Yatai</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>11/08/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>11/08/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>11/08/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>12/08/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>14/08/2018</date>
+		<home_team>Beijing Guoan</home_team>
+		<away_team>Dalian Yifang FC</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Shanghai SIPG</home_team>
+		<away_team>Guangzhou R&amp;F</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Shandong Luneng</home_team>
+		<away_team>Hebei China Fortune FC</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>2</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Jiāngsū Sūníng</home_team>
+		<away_team>Chongqing Lifan</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Tianjin Quanjian FC</home_team>
+		<away_team>Tianjin Teda</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Henan Jianye</home_team>
+		<away_team>Guangzhou Evergrande</away_team>
+		<final_home_score>0</final_home_score>
+		<final_away_score>5</final_away_score>
+		<half_home_score>0</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>15/08/2018</date>
+		<home_team>Shanghai Shenhua</home_team>
+		<away_team>Guizhou Hengfeng</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Dalian Yifang FC</home_team>
+		<away_team>Henan Jianye</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Tianjin Teda</home_team>
+		<away_team>Jiāngsū Sūníng</away_team>
+		<final_home_score>1</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Guizhou Hengfeng</home_team>
+		<away_team>Shandong Luneng</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Chongqing Lifan</home_team>
+		<away_team>Shanghai SIPG</away_team>
+		<final_home_score>2</final_home_score>
+		<final_away_score>3</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Guangzhou R&amp;F</home_team>
+		<away_team>Changchun Yatai</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>2</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>1</half_away_score>
+	</game>
+	<game>
+		<date>18/08/2018</date>
+		<home_team>Beijing Renhe FC</home_team>
+		<away_team>Beijing Guoan</away_team>
+		<final_home_score>3</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>2</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>19/08/2018</date>
+		<home_team>Hebei China Fortune FC</home_team>
+		<away_team>Shanghai Shenhua</away_team>
+		<final_home_score>4</final_home_score>
+		<final_away_score>1</final_away_score>
+		<half_home_score>3</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+	<game>
+		<date>19/08/2018</date>
+		<home_team>Guangzhou Evergrande</home_team>
+		<away_team>Tianjin Quanjian FC</away_team>
+		<final_home_score>5</final_home_score>
+		<final_away_score>0</final_away_score>
+		<half_home_score>1</half_home_score>
+		<half_away_score>0</half_away_score>
+	</game>
+</games>
