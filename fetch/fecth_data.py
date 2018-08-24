@@ -24,7 +24,7 @@ def main(data_path):
         saved_league = False
         if leagues is not None:
             league = leagues[0]
-            print(league)
+            # print(league)
             log("Retrieve seasons for " + c.name)
             seasons = ss.scrap(league)
             games = []

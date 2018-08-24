@@ -17,7 +17,6 @@ public class SmartBet {
       SaveDataController saveController = new SaveDataController(repo, args[0]);
       saveController.saveDataToDB();
 
-//      repo.runTests();
       SmartOutUtil.printLine("All tests passed");
     } catch (Exception e) {
       e.printStackTrace();
