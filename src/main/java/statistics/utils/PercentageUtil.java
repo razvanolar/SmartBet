@@ -4,9 +4,9 @@ import utils.SmartOutUtil;
 
 public class PercentageUtil {
 
-  public static String getLoadingBarString(int percentage) {
+  public static String getLoadingBarString(int percentage, String prefix) {
     int consoleWidth = SmartOutUtil.getConsoleWidth();
-    String rez = "\r ";
+    String rez = prefix + " ";
     if (percentage < 10)
       rez += "  ";
     else if (percentage < 100)
@@ -15,7 +15,7 @@ public class PercentageUtil {
     rez += String.valueOf(percentage);
     rez += "% [";
 
-    int spaceLeft = consoleWidth - rez.length() - 1;
+    int spaceLeft = consoleWidth - rez.length() - 1 - prefix.length();
     int fill = (spaceLeft * percentage) / 100;
 
     for (int i=0; i<spaceLeft; i++) {

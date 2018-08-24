@@ -3,6 +3,7 @@ package repository.loaders;
 import model.Game;
 import model.LightGame;
 import repository.JDBCUtil;
+import repository.utils.*;
 
 import java.sql.*;
 import java.util.ArrayList;
@@ -43,21 +44,50 @@ public class GameLoader extends Loader {
     }
   }
 
-  public List<LightGame> getLightGamesForLeagueId(int leagueId) throws SQLException {
+  public List<LightGame> getLightGames(GameDatabaseFilter filter) throws SQLException {
     PreparedStatement statement = null;
     ResultSet rs = null;
     try {
-      String query = SELECT_ALL_LIGHT_GAMES_SQL + " where l.id = ?" + ORDER_BY_DATE_ASC;
+      List<ConditionTuple> conditions = extractConditions(filter);
+      String query = SELECT_ALL_LIGHT_GAMES_SQL + " where " + ConditionUtil.computeConditions(conditions);
       statement = connection.prepareStatement(query);
-      statement.setInt(1, leagueId);
+      ConditionUtil.updateStatement(conditions, statement);
       rs = statement.executeQuery();
-      List<LightGame> result = new ArrayList<>();
-      while (rs.next()) {
-        result.add(extractLightGame(rs));
-      }
-      return result;
+      return extractLightGames(rs);
     } finally {
       JDBCUtil.getInstance().close(statement, rs);
     }
+  }
+
+  private List<ConditionTuple> extractConditions(GameDatabaseFilter filter) {
+    List<ConditionTuple> result = new ArrayList<>();
+    int index = 1;
+
+    if (filter.getMinDisputedDate() != null)
+      result.add(new ConditionTuple(new Condition(index++, ConditionType.DATE, "g.disputed >= ?", filter.getMinDisputedDate())));
+
+    if (filter.getTeamId() != GameDatabaseFilter.EMPTY_FIELD) {
+      result.add(new ConditionTuple(
+              new Condition(index++, ConditionType.INT, "g.home_team_id = ?", filter.getTeamId()),
+              new Condition(index++, ConditionType.INT, "g.away_team_id = ?", filter.getTeamId())));
+    } else {
+      if (filter.getHomeTeamId() != GameDatabaseFilter.EMPTY_FIELD)
+        result.add(new ConditionTuple(new Condition(index++, ConditionType.INT, "g.home_team_id = ?", filter.getHomeTeamId())));
+      if (filter.getAwayTeamId() != GameDatabaseFilter.EMPTY_FIELD)
+        result.add(new ConditionTuple(new Condition(index++, ConditionType.INT, "g.away_team_id = ?", filter.getAwayTeamId())));
+    }
+
+    if (filter.getLeagueId() != GameDatabaseFilter.EMPTY_FIELD)
+      result.add(new ConditionTuple(new Condition(index++, ConditionType.INT, "g.league_id = ?", filter.getLeagueId())));
+
+    return result;
+  }
+
+  private List<LightGame> extractLightGames(ResultSet rs) throws SQLException {
+    List<LightGame> result = new ArrayList<>();
+    while (rs.next()) {
+      result.add(extractLightGame(rs));
+    }
+    return result;
   }
 }

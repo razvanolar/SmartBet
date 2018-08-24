@@ -13,7 +13,7 @@ public class SmartBet {
 
       if (args.length == 0) {
         StatisticsController statisticsController = new StatisticsController(repo);
-        statisticsController.showStatisticsForLeague(22);
+        statisticsController.showStatisticsForLeague(50);
       } else {
 
         SaveDataController saveController = new SaveDataController(repo, args[0]);

@@ -1,6 +1,7 @@
 package repository;
 
 import model.*;
+import repository.utils.GameDatabaseFilter;
 import utils.SmartOutUtil;
 
 import java.sql.Connection;
@@ -18,8 +19,8 @@ public class Repository {
     this.writer = new DataWriter(loader);
   }
 
-  public List<LightGame> getLightGamesForLeagueId(int league_id) throws Exception {
-    return loader.getLightGamesForLeagueId(league_id);
+  public List<LightGame> getLightGames(GameDatabaseFilter filter) throws Exception {
+    return loader.getLightGames(filter);
   }
 
   public void saveGames(Country country, League league, List<Game> games) throws Exception {

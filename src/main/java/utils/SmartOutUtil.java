@@ -35,7 +35,7 @@ public class SmartOutUtil {
     }
 
     private String getProgressString() {
-      return PercentageUtil.getLoadingBarString((savedGames * 100) / totalGames);
+      return PercentageUtil.getLoadingBarString((savedGames * 100) / totalGames, "");
     }
   }
 

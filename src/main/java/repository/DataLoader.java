@@ -5,6 +5,7 @@ import repository.loaders.CountryLoader;
 import repository.loaders.GameLoader;
 import repository.loaders.LeagueLoader;
 import repository.loaders.TeamLoader;
+import repository.utils.GameDatabaseFilter;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -116,12 +117,12 @@ public class DataLoader {
     return gameLoader.checkIfGameExists(game);
   }
 
-  public List<LightGame> getLightGamesForLeagueId(int league_id) throws SQLException {
+  public List<LightGame> getLightGames(GameDatabaseFilter filter) throws SQLException {
     Connection connection = null;
     try {
       connection = JDBCUtil.getInstance().getNewConnection();
       GameLoader gameLoader = new GameLoader(connection);
-      return gameLoader.getLightGamesForLeagueId(league_id);
+      return gameLoader.getLightGames(filter);
     } finally {
       JDBCUtil.getInstance().closeConnection(connection);
     }
