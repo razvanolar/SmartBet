@@ -2,6 +2,7 @@ package utils;
 
 import model.Country;
 import model.League;
+import statistics.utils.PercentageUtil;
 
 import java.io.IOException;
 
@@ -34,32 +35,7 @@ public class SmartOutUtil {
     }
 
     private String getProgressString() {
-      int consoleWidth = getConsoleWidth();
-      int percent = (savedGames * 100) / totalGames;
-
-      String rez = "\r ";
-      if (percent < 10)
-        rez += "  ";
-      else if (percent < 100)
-        rez += " ";
-
-      rez += String.valueOf(percent);
-      rez += "% [";
-
-      int spaceLeft = consoleWidth - rez.length() - 1;
-      int fill = (spaceLeft * percent) / 100;
-
-      for (int i=0; i<spaceLeft; i++) {
-        if (i < fill) {
-          rez += "#";
-        } else {
-          rez += "-";
-        }
-      }
-
-      rez += "]";
-
-      return rez;
+      return PercentageUtil.getLoadingBarString((savedGames * 100) / totalGames);
     }
   }
 
@@ -80,8 +56,7 @@ public class SmartOutUtil {
   }
 
   public static void print(String message) throws IOException {
-//    System.out.write(message.getBytes());
-    System.out.print(message);
+    System.out.print("\r" + message);
   }
 
   public static SaveProgress getSaveProgressObject(Country country, League league, int gamesNo) {

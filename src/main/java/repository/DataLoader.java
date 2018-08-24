@@ -1,9 +1,6 @@
 package repository;
 
-import model.Country;
-import model.Game;
-import model.League;
-import model.Team;
+import model.*;
 import repository.loaders.CountryLoader;
 import repository.loaders.GameLoader;
 import repository.loaders.LeagueLoader;
@@ -117,5 +114,16 @@ public class DataLoader {
   public boolean checkIfGameExists(Game game, Connection connection) throws SQLException {
     GameLoader gameLoader = new GameLoader(connection);
     return gameLoader.checkIfGameExists(game);
+  }
+
+  public List<LightGame> getLightGamesForLeagueId(int league_id) throws SQLException {
+    Connection connection = null;
+    try {
+      connection = JDBCUtil.getInstance().getNewConnection();
+      GameLoader gameLoader = new GameLoader(connection);
+      return gameLoader.getLightGamesForLeagueId(league_id);
+    } finally {
+      JDBCUtil.getInstance().closeConnection(connection);
+    }
   }
 }

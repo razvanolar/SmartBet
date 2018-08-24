@@ -1,9 +1,6 @@
 package repository;
 
-import model.Country;
-import model.Game;
-import model.League;
-import model.Team;
+import model.*;
 import utils.SmartOutUtil;
 
 import java.sql.Connection;
@@ -19,6 +16,10 @@ public class Repository {
     JDBCUtil.init();
     this.loader = new DataLoader();
     this.writer = new DataWriter(loader);
+  }
+
+  public List<LightGame> getLightGamesForLeagueId(int league_id) throws Exception {
+    return loader.getLightGamesForLeagueId(league_id);
   }
 
   public void saveGames(Country country, League league, List<Game> games) throws Exception {
